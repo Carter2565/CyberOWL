@@ -1,4 +1,3 @@
 .old/*
-Settings.py
-*.json
 __pycache__/*
+.vscode/*
