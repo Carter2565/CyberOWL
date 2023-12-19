@@ -6,7 +6,7 @@ userdata = {}
 admin = ["carter2565#0",]
 
 class Tokens:
-  bot = ''  
+  bot = 's'  
 
 class Constructor:
   import discord
