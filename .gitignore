@@ -3,6 +3,3 @@ __pycache__/*
 .vscode/*
 Settings.py
 *.json
-Settings.py
-ReactRoles.json
-MemberCount.json
